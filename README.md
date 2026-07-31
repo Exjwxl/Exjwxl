@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Eujwal%20Joshik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%7C%20Building%20with%20AI%20%26%20Data&descAlignY=58&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Eujwal+Joshik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS+Graduate+%7C+Building+with+AI+%26+Data&descAlignY=58&descAlign=50)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Turning+data+into+decisions" alt="Typing SVG" />
