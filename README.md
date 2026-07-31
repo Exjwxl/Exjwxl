@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Eujwal%20Joshik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%7C%20Building%20with%20AI%20%26%20Data&descAlignY=58&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Eujwal%20Joshik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%7C%20Building%20with%20AI%20%26%20Data&descAlignY=58&descAlign=50&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Turning+data+into+decisions" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 </td>
 <td align="center" width="96">
 <a href="https://github.com/Exjwxl" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55" alt="GitHub"/>
 </a>
 </td>
 <td align="center" width="96">
@@ -116,7 +116,7 @@
 <table>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55" alt="GitHub"/></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva"/></td>
 </tr>
@@ -169,6 +169,6 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer)
 
 </div>
