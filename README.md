@@ -40,7 +40,6 @@
 </tr>
 </table>
 
-> _Add your Discord, Portfolio, Kaggle, and Resume links and I'll drop matching icons into this row._
 
 ---
 
